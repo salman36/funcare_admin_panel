@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.dfd90931.css",
-    "main.js": "/static/js/main.1c0b654c.js",
+    "main.js": "/static/js/main.33b546d8.js",
     "static/js/787.588deef3.chunk.js": "/static/js/787.588deef3.chunk.js",
     "static/media/funcarelogo_test.png": "/static/media/funcarelogo_test.6f1944d354db36fc6add.png",
     "index.html": "/index.html",
     "main.dfd90931.css.map": "/static/css/main.dfd90931.css.map",
-    "main.1c0b654c.js.map": "/static/js/main.1c0b654c.js.map",
+    "main.33b546d8.js.map": "/static/js/main.33b546d8.js.map",
     "787.588deef3.chunk.js.map": "/static/js/787.588deef3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd90931.css",
-    "static/js/main.1c0b654c.js"
+    "static/js/main.33b546d8.js"
   ]
 }
